@@ -1,0 +1,223 @@
+/*TODO LO DE HOME*/ 
+.Body-Home{
+    background-color: burlywood;
+}
+
+
+.Home-clase{ color: rgb(236, 220, 220);
+    font-size: 80px;
+    background-color: rgb(8, 8, 8);
+}
+
+.nav-conocenos{
+    font-size: 28px;
+}
+
+.Menu-Home {
+    font-size: 38px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.intro-slogan{
+    font-family: cursive;
+    font-style: initial;
+    text-decoration: underline;
+  }
+
+.info-especial{
+    background-color: rgb(168, 147, 207);
+    color: white;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+.Pixas-Varias-Home{
+    width: 1px;
+    margin: 0px;
+    display: block;
+    height: auto;
+}
+
+
+.Preparacion-Pizzas-Home {
+    background-color: darksalmon;
+    color: bisque;
+    font-size: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Menu{
+    background-color: darksalmon;
+    color: bisque;
+    font-size: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Sobre-Nosotros-Home{
+    background-color: darksalmon;
+    color: bisque;
+    font-size: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Contactanos-Home{
+    background-color: darksalmon;
+    color: bisque;
+    font-size: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ubicacion-pizza-Home{
+    background-color: darksalmon;
+    color: bisque;
+    font-size: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.direccion-pizza-Home {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.img-fluid1{
+    
+    display: flex;
+    margin: 25px;
+    padding-right: 85px;
+    justify-content: space-around;
+}
+.card-img-top1{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    display: block;
+    
+}
+.card-img-top2{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    display: block;
+
+}
+
+.card-img-top3{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    display: block;
+}
+.card-img-top4{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    display: block;
+}
+
+.Lista1{
+    font-size: 22px;
+}
+
+.card-title{
+    font-size: 24px;
+}
+
+.MapaMapa-Home{
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+/*RECETAS FACILES*/
+
+
+
+.Recetas-Faciles-body{
+    background-color: lightsalmon;
+}
+.Titulo-recetas{
+    color: aquamarine;
+    font-size: 40px;
+    
+    
+}
+.Ingredientes{
+    font-size: 30PX;
+    text-decoration: underline;
+}
+
+.titulo-2{
+    color: aquamarine;
+    font-size: 40px;
+    background-color: black;
+}
+
+
+/*SOBRE NOSOTROS*/
+
+
+.Sobre-nosotros-body{
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(Imagenes/pizzanapo.jpg);
+float: left;
+}
+
+.Titulo-sobre-nosotros{
+    color: rgb(169, 110, 245);
+    background-color: rgb(3, 3, 1);
+    font-size: 58px;
+}
+
+.Texto-sobre{
+    float: left;
+    background-color: bisque;
+    z-index: 1;
+    width: 540px;
+    padding: 20px 20px;
+    line-height: 1.5;
+    box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+}
+
+/*MENU*/
+
+.Body-menu{
+    background-color: plum;
+}
+
+.Menu-Menu{
+    text-decoration: underline;
+    font-size: 75px;
+    background-color: bisque;
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: centerx;
+}
+
+.Imagenes-menu{
+    width: 10px;
+    height: 100%;   
+}
+
+.imagen-whatss{
+    position: absolute;
+    top: 85px;
+    left: 80px;
+    width: calc(100% - (70px + 70px));
+}
+
+.Body-Contactanos{
+    background-color: darkseagreen;  }
+
+    .contactos{
+        background-color: beige;
+        opacity: 0.6;
+    }
+
+
